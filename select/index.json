@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "LOVE DIVE",
+  "base_artist": "IVE",
+  "createdAt": "2025-12-25T01:07:56.967672Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LOVE DIVE",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/01_LOVE_DIVE_IVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LOVE DIVE -Japanese version-",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/02_LOVE_DIVE_-Japanese_version-_IVE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LOVE DIVE -Japanese version-",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/03_LOVE_DIVE_-Japanese_version-_IVE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LOVE DIVE -Japanese ver.-",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/04_LOVE_DIVE_-Japanese_ver.-_IVE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LOVE DIVE",
+      "artist": "JBJ95",
+      "has_synced": true,
+      "path": "select/05_LOVE_DIVE_JBJ95.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LOVE DIVE (LOVE DIVE)",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/06_LOVE_DIVE_(LOVE_DIVE)_IVE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LOVE DIVE",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/07_LOVE_DIVE_IVE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LOVE DIVE",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/08_LOVE_DIVE_IVE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LOVE DIVE",
+      "artist": "IVE (아이브)",
+      "has_synced": true,
+      "path": "select/09_LOVE_DIVE_IVE_(아이브).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LOVE DIVE",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/10_LOVE_DIVE_IVE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "LOVE DIVE",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/11_LOVE_DIVE_IVE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LOVE DIVE (LOVE DIVE)",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/12_LOVE_DIVE_(LOVE_DIVE)_IVE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "LOVE DIVE",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/13_LOVE_DIVE_IVE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "LOVE DIVE -Japanese ver.- - LOVE DIVE -Japanese version-",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/14_LOVE_DIVE_-Japanese_ver.-_-_LOVE_DIVE_-Japanese_version-_IVE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "LOVE DIVE",
+      "artist": "IVE (아이브)",
+      "has_synced": true,
+      "path": "select/15_LOVE_DIVE_IVE_(아이브).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "LOVE DIVE",
+      "artist": "Kairo Mouse",
+      "has_synced": true,
+      "path": "select/16_LOVE_DIVE_Kairo_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "LOVE DIVE",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/17_LOVE_DIVE_IVE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVE DIVE",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_LOVE_DIVE_IVE.txt"
+    }
+  ]
+}
